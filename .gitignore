@@ -6,3 +6,4 @@ build/
 dist/
 Envelopes.egg-info/
 MANIFEST
+.idea
